@@ -1,0 +1,6 @@
+.DS_store
+myconfig.json
+main
+*_test.go
+bin/
+.idea/
