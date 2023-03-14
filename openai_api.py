@@ -1,7 +1,7 @@
 import sys
 
 import openai
-openai.api_key = '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'
+openai.api_key = 'sk-xxx'
 
 
 def openAIReq():

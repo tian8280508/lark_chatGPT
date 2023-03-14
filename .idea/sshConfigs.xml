@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="SshConfigs">
-    <configs>
-      <sshConfig host="3.114.209.7" id="5867c773-fc16-4134-bbc2-8020a4329af9" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="wesoul" useOpenSSHConfig="true" />
-    </configs>
-  </component>
-</project>
